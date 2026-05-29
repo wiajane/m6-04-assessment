@@ -1,0 +1,9 @@
+# Ignore the raw dataset and images
+data/
+
+# Ignore YOLO training artifacts and large weights (for Task 3)
+runs/
+*.pt
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
